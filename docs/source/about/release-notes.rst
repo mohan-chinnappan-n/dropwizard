@@ -36,7 +36,7 @@ v1.3.0: Unreleased
 * Add a TCP and UDP log appenders to Dropwizard `#2291 <https://github.com/dropwizard/dropwizard/pull/2291>`_
 * Upgrade to metrics 4.0.2
 * Upgrade to Guava 24.0-jre
-* Upgrade to JUnit 5.0.3
+* Upgrade to JUnit 5.1.0
 * Upgrade to Error Prone 2.2.0
 * Upgrade to NullAway 0.3.2
 * Upgrade to Apache HttpClient 4.5.5
